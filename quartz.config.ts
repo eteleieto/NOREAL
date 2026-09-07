@@ -25,7 +25,8 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: false,
+      // Keep builds independent of the Google Fonts fetch; the deployed site loads the stylesheet from the CDN.
+      cdnCaching: true,
       // Newsreader throughout; mono for code
       typography: {
         title: {
