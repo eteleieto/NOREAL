@@ -11,6 +11,8 @@ Barley is one of the oldest domesticated cereals, and food histories repeatedly 
 
 Barley’s texture comes partly from beta-glucans and pentosans in the grain walls, not just from starch. Those compounds help cooked barley feel springy and substantial, and they also make barley flour thirsty compared with wheat flour.[^3] Most food barley is hulled and then pearled to some degree, which smooths the grain but also strips away some bran, germ, and flavor.[^3]
 
+The distinction between hulled and hulless barley is especially practical in a regional grain system. University of Maine’s trial program evaluates both malting barley and “naked” barley for yield and quality, because a hulless kernel can move more directly toward food use while a covered kernel may be better suited to malting or feed.[^7] The crop is therefore not one fixed pantry ingredient: the variety and the retaining or removal of its hull change how much polishing, soaking, and processing stand between field and plate.
+
 Malting pushes the grain in another direction. Germination builds enzymes and softens the kernel; kilning then locks in a chosen balance of enzymatic power, sweetness, color, and roast character.[^6] That is why the same ingredient can turn up here as the substrate for [[Koji (Pearled Barley)]], as the base of [[Toasted Barley Kombucha]], or as part of a deeply savory ferment like [[Barley Soy Miso]].
 
 [^1]: University of Maine Cooperative Extension, “[Spring Barley Variety Trials](https://extension.umaine.edu/grains-oilseeds/topics/spring-barley-variety-trials/),” accessed July 19, 2026.
@@ -19,3 +21,4 @@ Malting pushes the grain in another direction. Germination builds enzymes and so
 [^4]: University of Maine Cooperative Extension, “Spring Malting Barley Variety Trial 2019 Results,” PDF p. 1, accessed July 19, 2026, https://extension.umaine.edu/grains-oilseeds/resource/2019-malting-barley-variety-trial-results/.
 [^5]: University of Maine Cooperative Extension, “Spring Malting Barley Variety Trial 2020 Results,” PDF p. 1, accessed July 19, 2026, https://extension.umaine.edu/grains-oilseeds/wp-content/uploads/sites/16/2021/11/BarleyVT2020Report.pdf.
 [^6]: Harold McGee, *On Food and Cooking: The Science and Lore of the Kitchen*, rev. ed. (Scribner, 2004), PDF p. 758.
+[^7]: University of Maine Cooperative Extension, “[Spring Barley Variety Trials](https://extension.umaine.edu/grains-oilseeds/topics/spring-barley-variety-trials/),” accessed September 9, 2026.

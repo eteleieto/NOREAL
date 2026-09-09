@@ -21,6 +21,8 @@ Sweet and sour cherries differ most conspicuously in how much sugar they can acc
 
 University of Maine Extension recommends tart and Duke cherries over sweet cherries for many cold Maine sites because spring bud hardiness is often the decisive limitation, not just winter survival.[^4] That climatic pressure helps shape the Northeast cherry pantry: the region lends itself naturally to pies, preserves, syrups, and ferments built from sharper fruit, not just to eating sweet cherries out of hand.
 
+The tart cherry’s usefulness is tied to that same hardiness. It is naturally a smaller tree, tolerates spring freezes better than sweet cherry, and stays sour until fully ripe; those traits make it a more dependable orchard fruit for a short or cold season, even when the finished fruit is destined for a cooked preparation rather than the fruit bowl.[^1] Cherries also ripen into a crop that birds can strip quickly, another reason orchard practice and harvest timing matter as much as cultivar flavor in the Northeast.[^4]
+
 [^1]: University of Maine Cooperative Extension, “[Types of Fruit Trees](https://extension.umaine.edu/fruit/growing-fruit-trees-in-maine/varieties/),” accessed July 18, 2026.
 [^2]: National Park Service, “[Orchard History: Orchard Specialization and Industrialization, 1881–1945](https://www.nps.gov/articles/000/historic-context-orchards-1881-to-1945.htm),” 2022.
 [^3]: Harold McGee, *On Food and Cooking: The Science and Lore of the Kitchen*, rev. ed. (Scribner, 2004), PDF p. 373.

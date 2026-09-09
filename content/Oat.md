@@ -14,7 +14,10 @@ Oats also behave differently in storage from most other cereals. They carry subs
 
 Most food oats are still the same groat underneath. Steel-cut oats are chopped groats; rolled oats are steamed and flattened; quick oats are rolled thinner so they hydrate faster.[^2][^3] That shared identity matters in this notebook because the ingredient keeps moving between intact grain, malted grain, sweetened dairy analog, and savory ferment. The form changes quickly, but the grain's soft cereal sweetness and thickening power stay recognizably oat-like through all of them.
 
+Maine’s oat crop makes the covered-versus-hulless distinction visible at field scale. University of Maine reports that the state grows roughly 20,000–30,000 acres of oats in a typical year, mostly for feed, while its variety trials increasingly include food-grade and free-threshing hulless types.[^5] A hulless oat is not a different species or a different flavor family; it is a form that sheds its husk more readily, reducing one of the main barriers between the harvested grain and food processing.
+
 [^1]: University of Maine Cooperative Extension, “[Oat Variety Trial 2019 Results](https://extension.umaine.edu/grains-oilseeds/topics/oat-variety-trials/2019-results/),” accessed July 26, 2026.
 [^2]: Harold McGee, *On Food and Cooking: The Science and Lore of the Kitchen*, rev. ed. (Scribner, 2004), PDF p. 485.
 [^3]: John Vaughan and Catherine Geissler, *The New Oxford Book of Food Plants*, 2nd ed. (Oxford University Press, 2009), p. 6 (PDF p. 41).
 [^4]: Owen R. Fennema, ed., *Food Chemistry*, 3rd ed. (Marcel Dekker, 1996), PDF p. 1132.
+[^5]: Ellen Mallory and Tom Molloy, University of Maine Cooperative Extension, “[Oat Variety Trial 2019 Results](https://extension.umaine.edu/grains-oilseeds/wp-content/uploads/sites/16/2021/11/OatVT2019Report.pdf),” PDF p. 1, accessed September 9, 2026.
