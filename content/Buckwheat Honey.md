@@ -7,6 +7,8 @@ Buckwheat honey is a dark honey produced when bees forage heavily on flowering [
 
 In the Northeast it belongs to a specific late-season rhythm rather than a generic wildflower blend. Cornell’s buckwheat newsletter treats buckwheat as both a crop and a bee plant, and notes that the honey from it is notably dark.[^2] That makes buckwheat honey one of the clearer examples of a field crop becoming a flavor marker in its own right.
 
+The connection is especially legible in the Northeast because buckwheat is still useful as a quick cover crop as well as a grain and bee plant. Its small white flowers can draw dense honey-bee visitation, but the crop does not guarantee a pure varietal honey: bees move among whatever is blooming nearby, and the final jar reflects the balance of nectar sources in that landscape.[^5] A dark buckwheat lot is therefore both a product of the plant and a record of the flowering field around it.
+
 “Buckwheat honey” names the nectar source, not an ingredient blended into finished honey. As with other varietal honeys, the label describes what the bees were primarily visiting. The floral source affects more than aroma: color, viscosity, and other physical properties shift with the nectar, and buckwheat honey sits near the almost-black end of the usual color range.[^3]
 
 Its darker flavor is not just a matter of color psychology. McGee points out that buckwheat honey carries a distinctly malty note, which is one reason it can read almost savory in breads, glazes, and ferment-adjacent experiments.[^4] It is a poor stand-in for a pale, delicate honey, but a useful sweetener when the darker flavor is the point.
@@ -15,3 +17,4 @@ Its darker flavor is not just a matter of color psychology. McGee points out tha
 [^2]: Cornell University, “[Northeast Buckwheat Growers Newsletter, June 2004](https://www.hort.cornell.edu/bjorkman/lab/buck/NL/june04.php),” accessed July 22, 2026.
 [^3]: Susan Marie and John R. Piggott, eds., *Handbook of Sweeteners* (Blackie, 1991), PDF page 69.
 [^4]: Harold McGee, *On Food and Cooking: The Science and Lore of the Kitchen*, rev. ed. (Scribner, 2004), PDF page 680.
+[^5]: Cornell University, “[Northeast Buckwheat Growers Newsletter, June 2004](https://www.hort.cornell.edu/bjorkman/lab/buck/NL/june04.php),” and University of Maine Cooperative Extension, “[Selecting Plants to Support Bees in Maine](https://extension.umaine.edu/publications/2076e/),” accessed September 10, 2026.

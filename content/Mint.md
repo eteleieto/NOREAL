@@ -12,6 +12,9 @@ Peppermint is itself a hybrid of water mint and spearmint, while spearmint carri
 
 That cooling effect is part of why mint reads so vividly in drinks, sweets, and herb teas, but it also explains mint's delicacy. Menthol is reactive and degrades with heat, so peppermint in particular is often at its best fresh or infused gently rather than cooked hard.[^3] In the Northeast, where named mints are easy garden escapees, the ingredient is less a single herb than a toolkit of overlapping aromas that can move from meadowy to candy-like depending on the patch.
 
+Mint’s vigor is culinary convenience and horticultural warning at once. The plants spread through underground stems and above-ground runners, and rich soil can produce a lot of green growth while diluting the essential-oil intensity that makes the leaves smell distinctive.[^2][^4] That balance helps explain why two handfuls of mint from different Northeast gardens can behave differently in a drink or infusion: species, cultivar, sun, soil, and harvest stage all change the proportion of carvone, menthol, and related volatiles.
+
 [^1]: Harold McGee, *On Food and Cooking: The Science and Lore of the Kitchen*, rev. ed. (Scribner, 2004), PDF p. 417.
 [^2]: John Vaughan and Catherine Geissler, *The New Oxford Book of Food Plants*, 2nd ed. (Oxford University Press, 2009), p. 160 (PDF p. 195).
 [^3]: Harold McGee, *On Food and Cooking: The Science and Lore of the Kitchen*, rev. ed. (Scribner, 2004), PDF pp. 405, 418.
+[^4]: University of Minnesota Extension, “[Growing herbs in home gardens](https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-minnesota/growing-herbs),” accessed September 10, 2026.

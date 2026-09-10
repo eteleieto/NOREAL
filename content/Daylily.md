@@ -11,6 +11,8 @@ The most practical kitchen detail is built right into the name: each flower last
 
 In the Northeast it persists easily in gardens and along old home sites, which helps explain why it keeps showing up in edible-landscape conversations even though it is not a conventional crop. The plant is a hardy perennial, and the same toughness that makes it easy to divide and maintain also makes it one of those ingredients people tend to encounter first as a flower and only later as food.[^2][^4]
 
+Identification matters here more than with many edible flowers. The food tradition belongs to *Hemerocallis*, especially the tawny daylily (*H. fulva*), not to lilies as a broad category; other ornamental lilies can be poisonous or irritating. UMaine also advises using flowers that are free of garden chemicals and introducing daylily gradually, since the plant can act as a laxative or diuretic for some people.[^1] That caution is part of the ingredient’s practical identity: it is a perennial vegetable and flower, but not an invitation to sample every lily in a garden.[^2]
+
 [^1]: University of Maine Cooperative Extension, “[Edible Flowers: Pretty in Your Garden and a Culinary Delight](https://extension.umaine.edu/gardening/2012/06/05/maine-home-garden-news-june-2012/),” accessed July 24, 2026.
 [^2]: University of Maine Cooperative Extension, “[Maine Home Garden Newsletter — May 2026](https://extension.umaine.edu/gardening/2026/05/01/maine-home-garden-newsletter-may/),” accessed July 24, 2026.
 [^3]: North Carolina Cooperative Extension, “[Daylily — Hemerocallis fulva](https://plants.ces.ncsu.edu/plants/hemerocallis-fulva/),” accessed July 24, 2026.
