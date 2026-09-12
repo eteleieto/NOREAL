@@ -14,6 +14,10 @@ The plant is perennial and mat-forming, with finely divided leaves, white flower
 
 Yarrow's aroma comes from volatile oils, while its bitter taste is part of why a little goes a long way. It belongs to the same broad daisy family as many familiar wild greens, but its finely cut foliage and strong scent distinguish it from lookalikes. Washington College describes the whole plant as edible, with leaves and flowers especially used in cooking, but its intensity is a good reason to treat it as a seasoning herb rather than a salad green.[^1]
 
+The plant’s food history is inseparable from its field ecology. Common yarrow forms low mats from rhizomes and tolerates dry, compacted, or disturbed ground, so in the Northeast it often appears where a cultivated herb would not be planted deliberately.[^2][^3] Its flat flower clusters and fernlike leaves are useful identification clues, but the aroma should be treated as confirmation rather than permission to gather casually. A strong bitter herb is only useful when the plant has been identified correctly and collected away from contaminated roadsides or treated ground.
+
+Yarrow is especially interesting as a flavor because bitterness and perfume arrive together. The essential oils give the leaf and flower their high, resinous top note, while bitter compounds give the ingredient length after the first aromatic impression fades.[^1][^3] That makes yarrow more useful in a composed infusion or seasoning than as a bulk green, and it helps explain why its culinary role has stayed small but persistent in places where the plant itself is common.
+
 Yarrow tolerates a wide range of climates and soils and grows well in full sun, including dry and nutrient-poor sites where many garden herbs struggle.[^3] It can spread by rhizomes, so treat it as a small, deliberate patch rather than a contained annual herb. Native Plant Trust distinguishes the New England populations from the Old World material often kept in gardens, a useful reminder that the name can cover plants with different regional histories even when the food character is similar.[^2]
 
 
